@@ -1,0 +1,16 @@
+# Session 1 - Hello World Assignment
+# Complete the tasks below
+
+# Task 1: Print "Hello World"
+# Your code here
+
+# Task 2: Create a variable 'name' and print greeting
+# Example: Hello, Ain
+# Your code here
+
+# Task 3: Ask user for two numbers and print the sum
+# Example output:
+# Enter first number: 5
+# Enter second number: 7
+# The sum is 12
+# Your code here
